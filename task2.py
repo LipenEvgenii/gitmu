@@ -38,3 +38,4 @@ while True:
         print("Вы ввели не коректный символ или неправельный номер меню")
         
         asd
+        dsffdsfdsdsfdsf
